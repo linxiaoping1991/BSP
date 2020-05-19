@@ -141,6 +141,5 @@ int main(void)
 		led_on();		/* 打开LED		 	*/
 		delay(300);		/* 延时大约500ms 		*/
 	}
-
 	return 0;
 }
